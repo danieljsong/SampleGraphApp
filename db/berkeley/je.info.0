@@ -1,0 +1,4 @@
+2025-04-14 21:58:22.768 UTC INFO [db/berkeley] JEErasure soft shutdown initiated.
+2025-04-14 21:58:22.771 UTC INFO [db/berkeley] RepairReservedFiles-db/berkeley soft shutdown initiated.
+2025-04-14 21:58:35.058 UTC INFO [db/berkeley] JEErasure soft shutdown initiated.
+2025-04-14 21:58:35.059 UTC INFO [db/berkeley] RepairReservedFiles-db/berkeley soft shutdown initiated.
