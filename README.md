@@ -14,7 +14,7 @@ Supports in-memory, BerkeleyDB, and FoundationDB storage backends.
 
 ### Clone and Build
 ```bash
-git clone https://github.com/YOUR_USERNAME/SampleGraphApp.git
+git clone https://github.com/danieljsong/SampleGraphApp.git
 cd SampleGraphApp
 mvn clean install
 ```
